@@ -3,7 +3,7 @@ import { extensionRegistry } from '../../vue/src/plugins/extensionRegistry';
 
 export const discountAdminPlugin: IPlugin = {
   name: 'discount-admin',
-  version: '26.6',
+  version: '26.6.1',
   description: 'Discount & coupon management — promotions admin',
 
   install(sdk: IPlatformSDK) {
